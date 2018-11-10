@@ -1,0 +1,39 @@
+header {
+    top: 30px;
+    background-color: white;
+    border: black 1px solid;
+    width: 100%;
+}
+.quote {
+    border: black 1px solid;
+    border-top-width: 3px;
+    background-color: lightgoldenrodyellow;
+    width: 100%;
+}
+.item{
+    color: black;
+    text-align:center;
+    padding-top: 20px;
+    font-style: italic;
+    font-size: 40px;
+}
+.img{
+    display: block;
+    padding: auto;
+    margin-left: auto;
+    margin-right: auto ;
+}
+footer {
+    border: black 1px solid;
+    border-top-width: 1px;
+    background-color: whitesmoke ;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+    width: 100%;
+}
+.style{
+    font-family: Calibri;
+    font-size: larger;
+}
